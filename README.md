@@ -71,8 +71,13 @@ I enjoy **learning new technologies**, designing **clean UI/UX**, and solving **
 ---
 
 ## 🤝 Connect with me
-- GitHub: **anushalakshmi0909**
-- LinkedIn: *(add your LinkedIn link)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anushalakshmi0909)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anushalakshmi09092005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Anushalakshmi_09/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](hackerrank.com/anusha0909)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge)](https://www.naukri.com/code360/profile/ANUSHALAKSHMI)
+
 
 ---
 
